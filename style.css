@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;font-family: Arial;
+
+}
+header{
+    height: 40px;
+    width: 100%;
+    position: relative;
+    background-color: black;
+}
+nav{
+    height: 40px;
+    width: 100%;
+    
+    position: absolute;
+    
+}
+.mobile{
+    position: absolute;
+    left: 2.5%;
+    top: 13px;
+    color: white;
+    font-size: small;
+}
+.mail{
+    position: absolute;
+    left: 12%;
+    top: 13px;
+    color: white;
+    font-size: small;
+    
+    
+}
+li{
+    display: inline-flex;
+}
+a{
+    display: inline-block;
+    position: absolute;
+    left: 95%;
+    top: 12px;
+    color: white;
+    text-decoration: none;
+}
+.second{
+    height: 100px;
+    width: 100%;
+    margin-top: 21.9px;
+    background-color: rgb(15, 212, 237);
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    left: 2.5%;
+    margin-top: 15px;
+    position: absolute;
+    
+}
+img{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+P{
+    position: absolute;
+    font-size: xx-large;
+    font-family: 'Castellar';
+    left: 8%;
+    margin-top: 15px;
+    color: rgb(4, 47, 107, 0.974);
+}
+.tec{
+    position: absolute;
+    left: 8%;
+    margin-top: 50px;
+    padding: 5px 50px;
+    color: white;
+    background-color: rgba(4, 47, 107, 0.974);
+    font-size: medium;
+    font-family: arial;
+}
+.navlinks{
+    position: absolute;
+    left: 30%;
+    height: 100px;
+    width: 70%;
+    
+ 
+}
+.fs{
+    
+    left: 40%;
+    margin-top: 20px;
+    font-size: large;
+    
+}
+
+
+.icon li{
+    display: inline-flex;
+}
+.icon a{
+    position: relative;
+    display: inline-flex;
+    margin-top: 40px;
+    margin-left: 155px;
+    color: black;
+    justify-content: space-evenly;
+    width: 5px;
+    
+}
+.third{
+    height: 45px;
+    width: 100%;
+    position: relative;
+    background-color: rgb(4, 59, 114);
+}
+.list li{
+    display: inline-flex;
+}
+.list a{
+    position: relative;
+    display: inline-flex;
+    color: white;
+    left: -10px;
+    justify-content: space-evenly;
+    width: 215px;
+       
+}
+.hw{
+    position: absolute;
+    background-color: rgb(212, 7, 89);
+    padding: 13.5px 0px;
+    margin-top: -12px;
+}
+.bg{
+    position: absolute;
+    background-color: rgb(212, 7, 89);
+    padding: 13.5px 0px;
+    margin-top: -12px;
+    
+}
